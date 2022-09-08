@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\asus\\Desktop\\GB\\Дз4\\3\\3.csproj": {}
+    "C:\\Users\\asus\\Desktop\\GB\\Дз4\\1\\-\\1.2\\1.2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\asus\\Desktop\\GB\\Дз4\\3\\3.csproj": {
+    "C:\\Users\\asus\\Desktop\\GB\\Дз4\\1\\-\\1.2\\1.2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asus\\Desktop\\GB\\Дз4\\3\\3.csproj",
-        "projectName": "3",
-        "projectPath": "C:\\Users\\asus\\Desktop\\GB\\Дз4\\3\\3.csproj",
+        "projectUniqueName": "C:\\Users\\asus\\Desktop\\GB\\Дз4\\1\\-\\1.2\\1.2.csproj",
+        "projectName": "1.2",
+        "projectPath": "C:\\Users\\asus\\Desktop\\GB\\Дз4\\1\\-\\1.2\\1.2.csproj",
         "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asus\\Desktop\\GB\\Дз4\\3\\obj\\",
+        "outputPath": "C:\\Users\\asus\\Desktop\\GB\\Дз4\\1\\-\\1.2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config"
